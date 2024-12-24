@@ -17,3 +17,5 @@ This project implements user authentication and authorization using JWT tokens, 
 - `GET /api/users/getuser`: Fetch user info (protected route).
 
 ## Postman Collection
+
+https://documenter.getpostman.com/view/39189138/2sAYJ4i1SJ
